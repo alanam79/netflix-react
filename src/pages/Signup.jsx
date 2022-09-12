@@ -23,7 +23,7 @@ const Signup = () => {
       <div className="w-full h-screen">
         <img
           className="hidden sm:block absolute w-full h-full object-cover"
-          src="https://assets.nflxext.com/ffe/siteui/vlv3/701eec50-4b87-4dc0-9d00-b0f54025dc36/489dfafa-cdde-45c9-a615-496695e7ffab/US-en-20220905-popsignuptwoweeks-perspective_alpha_website_large.jpg "
+          src="https://assets.nflxext.com/ffe/siteui/vlv3/701eec50-4b87-4dc0-9d00-b0f54025dc36/489dfafa-cdde-45c9-a615-496695e7ffab/US-en-20220905-popsignuptwoweeks-perspective_alpha_website_large.jpg"
           alt="/"></img>
         <div className="bg-black/60 fixed top-0 left-0 w-full h-screen"></div>
         <div className="fixed w-full px-4 py-24 z-50">
