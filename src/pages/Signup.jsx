@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Signup = () => {
   return (
@@ -29,13 +30,19 @@ const Signup = () => {
                 <button className="bg-red-600 py-3 my-6 rounded font-bold">
                   Sign Up
                 </button>
-                <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center text-sm text-gray-600">
                   <p>
                     <input className="mr-2" type="checkbox" />
                     Remember Me
                   </p>
                   <p>Need Help?</p>
                 </div>
+                <p className="py-8">
+                  <span className="text-gray-600">
+                    Already subscribed to Netflix?
+                  </span>{" "}
+                  <Link to="/login">Sign In</Link>
+                </p>
               </form>
             </div>
           </div>
