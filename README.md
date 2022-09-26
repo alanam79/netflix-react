@@ -11,11 +11,15 @@
   This is the first application I have built after finishing Bootcamp, also used a new technology for the backend, Firebase.
 
   ## Table of Contents
+  * [Technologies](#technologies)
   * [Website](#website)
   * [Screenshots](#screenshots)
   * [Questions](#questions)
   * [License](#license)
   * [Special Thanks](#special-thanks)
+  
+  ## Technologies
+  * Firebase
 
   # Website
   https://github.com/alanam79/netflix-react
