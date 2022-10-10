@@ -22,7 +22,7 @@
   * Firebase
 
   # Website
-  https://github.com/alanam79/netflix-react
+  https://netflix-react-project-cb41c.firebaseapp.com/
 
   ## Screenshots
   [![1.jpg](https://i.postimg.cc/T19Kt9Xy/1.jpg)](https://postimg.cc/wR1xvDMH)
